@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```text
 JavaScript   8 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
 TypeScript   7 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-YAML         6 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
+YAML         6 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
 JSON         3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 Vue.js       2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
