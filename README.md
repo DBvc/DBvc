@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 TypeScript   21 hrs 29 mins  ███████████████████▒░░░░░   77.34 % 
 ReScript     2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 JSON         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-SCSS         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+SCSS         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 <!--END_SECTION:waka-->
