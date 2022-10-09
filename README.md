@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Racket   44 mins         █████████████████████████   100.00 %
+TypeScript   1 hr 50 mins    ██████████▒░░░░░░░░░░░░░░   40.97 %
+JavaScript   57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+JSON         53 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+Racket       44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
