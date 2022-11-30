@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 9 hrs 30 mins   ████████████▓░░░░░░░░░░░░   50.90 %
-YAML                       2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-Docker                     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other                      1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TypeScript                 13 hrs 50 mins  ███████████████▓░░░░░░░░░   62.94 %
+YAML                       2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other                      1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
