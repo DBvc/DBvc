@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         4 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-TypeScript   2 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-JavaScript   2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JSON         1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Bash         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Docker       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML          4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 %
+TypeScript    2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+JavaScript    2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+JSON          1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Bash          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+HTML          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
