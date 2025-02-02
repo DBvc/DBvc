@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        19 mins         ███████████████████▓░░░░░   78.21 %
+TypeScript   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
 ```
 
 <!--END_SECTION:waka-->
