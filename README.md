@@ -3,7 +3,7 @@
 Programmer building software systems that humans and agents can understand, change, and verify.
 
 I work on agent-operable architecture, AI-native engineering workflows,
-developer tools, and software architecture notes.
+developer tooling, and software architecture notes.
 
 ## Current thesis
 
@@ -13,26 +13,31 @@ It changes what architecture must control.
 When editing becomes cheap, the expensive parts become understanding,
 validation, review, rollout, and recovery.
 
-A codebase becomes agent-operable when its facts, boundaries, ownership,
-validation paths, and context signals are explicit enough for both humans
-and agents to change it safely.
-
 ## Featured work
 
 | Project | Role | What it explores |
 | --- | --- | --- |
-| [Agent-operable Architecture](https://github.com/DBvc/agent-operable-architecture) | Architecture | How codebases should expose truth, boundaries, proofs, and safe change paths for humans and agents |
-| [Agent Skill Control Theory](https://github.com/DBvc/agent-skill-control-theory) | Agent control | How reusable agent skills should be designed, triggered, evaluated, and evolved |
-| [DBX Skills](https://github.com/DBvc/skills) | Practice | Claude/Codex skills for review, planning, architecture health, and engineering workflows |
-| [db.oneir.xyz](https://db.oneir.xyz) | Writing | Longer notes on AI coding, architecture, programming foundations, and software judgment |
+| [Agent-operable Architecture](https://github.com/DBvc/agent-operable-architecture) | Architecture | How codebases can expose truth, boundaries, proofs, and safe change paths for humans and agents |
+| [Agent Skill Control Theory](https://github.com/DBvc/agent-skill-control-theory) | Agent control | A framework for designing, evaluating, and evolving LLM agent skills |
+| [DBX Skills](https://github.com/DBvc/skills) | Practice | Claude/Codex skills for planning, reviewing, architecture health, and engineering workflows |
+| [db.oneir.xyz](https://db.oneir.xyz) | Writing | Notes on AI coding, architecture, programming foundations, and software judgment |
 
 ## Engineering taste
 
-- Prefer explicit source of truth over implicit convention.
-- Prefer bounded change paths over heroic repo-wide patches.
-- Prefer executable evidence over confident prose.
-- Prefer architecture findings that explain future failure modes.
-- Treat AI coding as a software engineering problem, not only a model capability problem.
+- Make source of truth explicit.
+- Keep semantic changes locally understandable.
+- Bind success claims to executable evidence.
+- Treat repository context as part of the architecture.
+- Report architecture findings by future failure mode, not by taste alone.
+
+## Map
+
+```text
+Codebase side   Agent-operable Architecture
+Agent side      Agent Skill Control Theory
+Workflow side   DBX Skills
+Writing side    db.oneir.xyz
+```
 
 ----
 
