@@ -1,9 +1,8 @@
-# db.oneir / DBvc
+# DBvc / db.oneir
 
 Programmer building software systems that humans and agents can understand, change, and verify.
 
-I work on agent-operable architecture, AI-native engineering workflows,
-developer tooling, and software architecture notes.
+A curious life in software systems: architecture, tools, notes, and experiments.
 
 ## Current thesis
 
