@@ -45,11 +45,11 @@ Writing side    db.oneir.xyz
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml        2 hrs 13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
-Other        2 hrs 1 min           ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
-TypeScript   1 hr 29 mins          █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-YAML         36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Markdown     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Other        3 hrs 35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+OCaml        3 hrs 33 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Markdown     3 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+TypeScript   1 hr 57 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+YAML         50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
