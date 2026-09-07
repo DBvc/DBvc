@@ -45,7 +45,10 @@ Writing side    db.oneir.xyz
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         55 mins               ██████████▓░░░░░░░░░░░░░░   43.23 %
+Markdown   47 mins               █████████▒░░░░░░░░░░░░░░░   36.86 %
+YAML       21 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+JSON       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
